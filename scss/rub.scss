@@ -1,0 +1,15 @@
+@import "imagen";
+
+.body-principal-degradado{
+	background-image: linear-gradient(orange,red);
+}
+.fuente-principal {
+  font-style: italic;
+  font-weight: 100;
+  font-family: 'Andika New Basic', sans-serif;
+}
+
+.grilla-3cols{
+	display: grid;
+	grid-template-columns: auto auto auto;
+}

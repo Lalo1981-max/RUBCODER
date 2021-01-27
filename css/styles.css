@@ -1,0 +1,13 @@
+.bodyBackground {
+    background-image: linear-gradient(orange, red);
+}
+
+.basicFont {
+    font-style: italic;
+    font-weight: 100;
+    font-family: 'Andika New Basic', sans-serif;
+}
+
+.bcolor {
+    background-image: linear-gradient(orange, red);
+}
