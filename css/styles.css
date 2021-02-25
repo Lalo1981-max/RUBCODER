@@ -1,13 +1,32 @@
-.bodyBackground {
-    background-image: linear-gradient(orange, red);
-}
-
-.basicFont {
-    font-style: italic;
-    font-weight: 100;
-    font-family: 'Andika New Basic', sans-serif;
-}
-
-.bcolor {
-    background-image: linear-gradient(orange, red);
-}
+                    .bodyBackground {
+                        background-image: linear-gradient(orange, red);
+                    }
+                    
+                    .basicFont {
+                        font-style: italic;
+                        font-weight: 100;
+                        font-family: 'Andika New Basic', sans-serif;
+                    }
+                    
+                    .bcolor {
+                        background-image: linear-gradient(orange, red);
+                    }
+                    
+                    .navBar {
+                        background-color: orangered;
+                    }
+                    
+                    .escuela {
+                        font-size: 30px;
+                    }
+                    
+                    .escuela2 {
+                        font-size: 50px;
+                        font-style: inherit;
+                    }
+                    
+                    .fondoA {
+                        background-image: linear-gradient(orange, red, green);
+                    }
+                    
+                    .move {}
